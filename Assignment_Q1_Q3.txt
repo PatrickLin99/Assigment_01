@@ -1,0 +1,17 @@
+Answer of Q1 - Q3
+
+Q1. a. Correct
+    b. Not correct, because 5.6 is NOT interger
+    c. Correct
+    d. No, Kotlin doesn't allow to return null type.
+      (could be modified as: val content: String? = null)
+    e. Correct
+    f. No, not allow to return null type
+    g. Correct
+    h. No, because we declare the type as String?, instead of only String
+    i. Correct
+
+Q2. c. "Yourgrace."
+       (the result of message.length equals to 39)
+
+Q3. d. it represents iteration, which in this case would be 6 times. 
